@@ -104,7 +104,7 @@ a:hover {
     border-top:3px solid #FF0000;/*THIS COLOR IS RED*/
     border-bottom:3px solid #FF0000;
     background-size:cover;
-    background:url(../images/Banner_Photo.jpg) no-repeat center #FFFFFF;
+    background:url(../bootcamp/Banner_Photo.jpg) no-repeat center #FFFFFF;
 }
 #bannerAbout {
     overflow:hidden;
@@ -112,7 +112,7 @@ a:hover {
     border-top:3px solid #FF0000;/*THIS COLOR IS RED*/
     border-bottom:3px solid #FF0000;/*THIS COLOR IS RED*/
     background-color:#FFFFFF;
-    /*background:url('../images/banner_about.jpg') no-repeat center #8DC63F;*//*Single quotes used to illustrate usage in CSS*/
+    /*background:url('../bootcamp/banner_about.jpg') no-repeat center #8DC63F;*//*Single quotes used to illustrate usage in CSS*/
 }
 #bannerContact {
     overflow:hidden;
@@ -120,7 +120,7 @@ a:hover {
     border-top:3px solid #FF0000;/*THIS COLOR IS RED*/
     border-bottom:3px solid #FF0000;/*THIS COLOR IS RED*/
     background-color:rgb(255,255,0);/*THIS COLOR IS YELLOW*/
-    /*background:url('../images/banner_about.jpg') no-repeat center #8DC63F;*//*Single quotes used to illustrate usage in CSS*/
+    /*background:url('../bootcamp/banner_about.jpg') no-repeat center #8DC63F;*//*Single quotes used to illustrate usage in CSS*/
 }
 .bannerTitle {
     color:#FF0000;
